@@ -1,0 +1,6 @@
+- Arduino Uno R3
+- DS1307 RTC module
+- MPU-9250 breakout
+- Breadboard + jumpers
+- 10K ohm pullups
+- Decoupling caps (.1 uF)
